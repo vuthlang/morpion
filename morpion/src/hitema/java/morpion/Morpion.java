@@ -4,16 +4,6 @@ import hitema.java.morpion.tools.DisplayConsole;
 
 import java.util.Scanner;
 
-/**
- * Ajouter la possibilité de rejouer lorsqu'il y a un gagnant
- * Numéroter les lignes et colonnes (format 1,2 ou 1 2) ou sinon juste mettre un numéro pour chaque page pour que ça soit userfriendly
- * ok : Gérer la limite (si la position est négative, le max, etc.)
- * ok : Sortie lorsqu'il une entrée vide (donc en cliquant sur entrée)
- *
- * logique
- * modèles = Square
- * DisplayConsole = graphique
- **/
 public class Morpion {
     public static void main(String[] args) {
 
